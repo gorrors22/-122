@@ -175,19 +175,19 @@ const reviews = [
     name: "Елена",
     date: "12.09.2026",
     text: "Спасибо всем, кто помог нам снова быть вместе!",
-    photo: "C:\\Users\\gorro\\OneDrive\\Рабочий стол\\практика\\new-life-site\\new-life-site\\assets\\photos\\dovolna.jpg",
+    photo: "assets\\photos\\dovolna.jpg",
   },
   {
     name: "Александр",
     date: "18.09.2026",
     text: "Благодаря сервису наш пёс вернулся домой. Огромное спасибо!",
-    photo: "C:\\Users\\gorro\\OneDrive\\Рабочий стол\\практика\\new-life-site\\new-life-site\\assets\\photos\\mss.jpg",
+    photo: "assets\\photos\\mss.jpg",
   },
   {
     name: "Мария",
     date: "03.10.2026",
     text: "Нашли нашу кошку уже на следующий день. Очень благодарны волонтёрам!",
-    photo: "C:\\Users\\gorro\\OneDrive\\Рабочий стол\\практика\\new-life-site\\new-life-site\\assets\\photos\\jsk.jpg",
+    photo: "assets\\photos\\jsk.jpg",
   },
 ];
 function renderCards() {
